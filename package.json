@@ -1,0 +1,14 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "Project for my Electron Caurse",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sithembiso Sangweni",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
